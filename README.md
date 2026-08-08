@@ -44,7 +44,9 @@ PeopleSphere
 │               └── PIMTest.java
 │
 └── pom.xml
+
 🧪 Test Scenarios
+
 Login Testing
 Valid login
 Invalid username
@@ -59,14 +61,18 @@ Add employee
 Search employee
 Edit employee details
 Delete employee
+
 ⚙️ Framework Features
+
 Page Object Model (POM)
 Reusable page methods
 Explicit waits
 TestNG assertions
 Configuration using properties file
 Maven dependency management
+
 ▶️ How to Run
+
 1. Clone the repository
 git clone https://github.com/SunnySingh0001/PeopleSphere.git
 2. Open the project
